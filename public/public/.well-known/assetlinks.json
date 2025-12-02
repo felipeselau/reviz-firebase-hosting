@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.flutter_flash_cards",
+      "sha256_cert_fingerprints": [
+        "CC:52:2B:14:C8:9A:B7:CD:9F:C1:EB:3F:69:AC:7A:C1:1F:90:E4:8A:35:B2:12:D2:C3:2C:3B:7C:84:AD:79:16"
+      ]
+    }
+  }
+]
